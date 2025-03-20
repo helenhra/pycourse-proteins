@@ -11,20 +11,15 @@ credits (data source, help)
 license
 
 
-# Project Title
+# Protein structures
 
-A brief description of what this project does and who it's for
+protein structures are stored in RCSB PDB (Research Collaboratory for Structural Bioinformatics Protein Data Bank)
 
+there are other structures too, not just proteins
 
 ## How to use
+
 ## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
 
 ## License
 
