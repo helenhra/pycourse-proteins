@@ -47,6 +47,3 @@ conda env create -f env.yml
 
 ## Contributing
 Pull requests are welcome. For major changes, please, discuss with the author.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
